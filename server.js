@@ -2,16 +2,16 @@ const http = require("http");
 
 const Users = [
   {
-    name: "Bruce",
-    age: 25,
+    name: "Chetan",
+    age: 23,
   },
   {
-    name: "Tony",
-    age: 30,
+    name: "Bhushan",
+    age: 14,
   },
   {
-    name: "Steve",
-    age: 70,
+    name: "Nilesh",
+    age: 13,
   },
 ];
 
